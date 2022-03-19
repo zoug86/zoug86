@@ -1,6 +1,6 @@
 ### Hi there, I'm Houssem - aka [zoug86][website] 👋
 
-[![Website](https://img.shields.io/website?label=zoug86&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://marzougui-h.tech)
+[![Website](https://img.shields.io/website?label=zoug86&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://marzougui-h.dev)
 
 
 ## I'm a Frontend Developer and Crypto Miner and Trader!!
