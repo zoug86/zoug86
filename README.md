@@ -8,8 +8,8 @@
 - 🔭 I just launched my Blog: [CodeFever!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: My favorite crypto coins: ETH, ADA, VET and HNT
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: My favorite crypto coins: ETH, SOL, and HNT
 
 ### Connect with me:
 
